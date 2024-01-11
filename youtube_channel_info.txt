@@ -5,6 +5,9 @@
 TVBS |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
+TVBS HD 56台 |台湾||
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
 寰宇新聞台 |台湾||
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
@@ -14,8 +17,14 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 台視新聞台 |台湾||
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
+台視新聞台湾台 |台湾||
+https://www.youtube.com/watch?v=w87VGpgd90U
+
 中視新聞 |台湾||
 https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+公視新聞 |台湾||
+https://www.youtube.com/watch?v=quwqlazU-c8
 
 民視新聞 |台湾||
 https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -23,8 +32,14 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新闻 |台湾||
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
+中天新闻2台 |台湾||
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
 三立新闻 |台湾||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+镜新闻 |台湾||
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 三立iNEW海外直播 |台湾||
 https://www.youtube.com/watch?v=FoBfXvlOR6I
@@ -37,6 +52,9 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+大爱1台  |台湾||
+https://www.youtube.com/watch?v=MIqUplvSRWA
 
 大爱2台  |台湾||
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
