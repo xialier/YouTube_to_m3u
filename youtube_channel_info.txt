@@ -1,6 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+CCTV4 HD|大陆||
+https://www.youtube.com/watch?v=9sE12tg3CmA
+
+凤凰资讯HD |香港||
+https://www.youtube.com/watch?v=Zm4i_rvAcxc
 
 TVBS |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
