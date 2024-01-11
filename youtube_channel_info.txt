@@ -1,13 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
-
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-
 
 TVBS |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -47,5 +40,11 @@ https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 大爱2台  |台湾||
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
+
+4K | 4k |  |
+https://www.youtube.com/watch?v=rw7bxTqkYYs
+
+4K | 4k |  |
+https://www.youtube.com/watch?v=tAuXNZ5TSlA
 
 
