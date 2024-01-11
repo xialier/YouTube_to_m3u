@@ -2,25 +2,14 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
 4K | 4k |  |
 https://www.youtube.com/watch?v=rw7bxTqkYYs
 
 4K | 4k |  |
 https://www.youtube.com/watch?v=tAuXNZ5TSlA
 
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
 中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
 TVBS |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -37,45 +26,13 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 寰宇新聞台 |台湾||
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
-
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
-
 三立新闻 |台湾||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
 東森新聞  |台湾||
-https://www.youtube.com/watch?v=R2iMq5LKXco
+https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
-
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
 
