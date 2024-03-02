@@ -2,80 +2,100 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-台視新聞台HD | 韩国 |  |
-https://www.youtube.com/watch?v=xL0ch83RAK8
+TVBS NEWS
+https://www.youtube.com/live/m_dhMSvUCIc?si=LaM64KmnGrlBhmOh
 
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
+東森新聞 CH51
+https://www.youtube.com/watch?v=S5WOGu2HSes
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
+東森新聞世界日報
+https://www.youtube.com/watch?v=6gXbFIaRJt0
 
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
+寰宇新聞台
+https://www.youtube.com/watch?v=6IquAgfvYmc
 
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
+寰宇新聞 台灣台
+https://www.youtube.com/live/w87VGpgd90U?si=LrmeooL1tjIW9C2X
 
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+寰宇新聞財經台
+https://www.youtube.com/watch?v=25SE1bbTv9k
 
-TVBS |台湾||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+三立LIVE新聞
+https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-台視新聞台 |台湾||
-https://www.youtube.com/watch?v=xL0ch83RAK8
+中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-三立海外直播 |台湾||
-https://www.youtube.com/watch?v=FoBfXvlOR6I
-
-中視新聞 |台湾||
+中視新聞
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
+公視新聞
+https://www.youtube.com/watch?v=quwqlazU-c8
 
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
+公視台語新聞
+https://www.youtube.com/watch?v=nfFR9L5OwVI
 
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
+民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
+台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
 
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
+華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
+鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
+ANNnews 全日本新聞網
+https://www.youtube.com/live/coYw-eVU0Ks?si=jTsXdpz9yaVD4rdU
 
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
+FNN 富士新聞網
+https://www.youtube.com/live/XlSLB6FbT74?si=ANjizLmopkX28Gb4
 
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
+NTV NEWS 日テレNEWS 
+https://www.youtube.com/watch?v=fwXzqQ_sK_U
 
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
+MBC News
+https://www.youtube.com/watch?v=q-Wv4Pvt-5A
 
-三立新闻 |台湾||
-https://www.youtube.com/watch?v=CKjSm5ZeehE
+KBS News
+https://www.youtube.com/watch?v=tt4sDBZx3fw
 
-東森新聞  |台湾||
-https://www.youtube.com/watch?v=R2iMq5LKXco
+JTBC News
+https://www.youtube.com/watch?v=w4tZfR8k5fI
 
-東森財經新聞  |台湾||
-https://www.youtube.com/watch?v=WHEPzbFA3hw
+SBS News（頻道連結）：
+https://www.youtube.com/watch?v=WwLwGGsJv8E
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
+https://www.youtube.com/watch?v=nC00onWIXPo
 
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+https://www.youtube.com/watch?v=RJpkxiJZ2kw
+
+YTN News
+https://www.youtube.com/watch?v=FJfwehhzIhw
+
+YNA
+https://www.youtube.com/watch?v=6QZ_qc75ihU
+
+韓國經濟電視台
+https://www.youtube.com/watch?v=NJUjU9ALj4A
+
+DW News
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+NBC News
+https://www.youtube.com/watch?v=OQNkkEhQXlo
+
+ABC News
+https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+France 24
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+
+半島電視
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 
