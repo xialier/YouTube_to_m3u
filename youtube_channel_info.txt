@@ -1,101 +1,41 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+华语歌曲一 | YouTube | |
+https://www.youtube.com/watch?v=hSzt7cJOT80
 
+华语歌曲二 | YouTube | |
+https://www.youtube.com/watch?v=zx_eIhEr7eo
 
-TVBS NEWS | 海外 |  |
-https://www.youtube.com/live/m_dhMSvUCIc?si=LaM64KmnGrlBhmOh
+华语歌曲三 | YouTube | |
+https://www.youtube.com/watch?v=XMtCbu6va_8
 
-東森新聞 CH51 | 海外 |  |
-https://www.youtube.com/watch?v=2dfAzcDf8Zg
+西游记 | YouTube | |
+https://www.youtube.com/watch?v=Wr7qwP8T0QA
 
-東森新聞世界日報 | 海外 |  |
-https://www.youtube.com/watch?v=6gXbFIaRJt0
+全球音乐 | YouTube | |
+https://www.youtube.com/watch?v=36YnV9STBqc
 
-寰宇新聞台 | 海外 |  |
-https://www.youtube.com/watch?v=6IquAgfvYmc
+小猪佩奇-英文版 | YouTube | |
+https://www.youtube.com/watch?v=2HfU8YSoqoQ
 
-寰宇新聞 台灣台 | 海外 |  |
-https://www.youtube.com/live/w87VGpgd90U?si=LrmeooL1tjIW9C2X
+4K动物-原声 | YouTube | |
+https://www.youtube.com/watch?v=U5juG8dT-Z0
 
-寰宇新聞財經台 | 海外 |  |
-https://www.youtube.com/watch?v=25SE1bbTv9k
-
-三立LIVE新聞 | 海外 |  |
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-中天新聞 | 海外 |  |
-https://www.youtube.com/watch?v=oIgbl7t0S_w
-
-中視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-公視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=quwqlazU-c8
-
-公視台語新聞 | 海外 |  |
-https://www.youtube.com/watch?v=nfFR9L5OwVI
-
-民視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-台視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-華視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
- 
-鏡新聞 | 海外 |  |
-https://www.youtube.com/watch?v=5n0y6b0Q25o
-
-ANNnews 全日本新聞網 | 海外 |  |
-https://www.youtube.com/live/coYw-eVU0Ks?si=jTsXdpz9yaVD4rdU
-
-FNN 富士新聞網 | 海外 |  |
-https://www.youtube.com/live/XlSLB6FbT74?si=ANjizLmopkX28Gb4
-
-NTV NEWS 日テレNEWS  | 海外 |  |
-https://www.youtube.com/watch?v=fwXzqQ_sK_U
-
-MBC News | 海外 |  |
-https://www.youtube.com/watch?v=q-Wv4Pvt-5A
-
-KBS News | 海外 |  |
-https://www.youtube.com/watch?v=tt4sDBZx3fw
-
-JTBC News | 海外 |  |
-https://www.youtube.com/watch?v=w4tZfR8k5fI
-
-SBS News | 海外 |  |
-https://www.youtube.com/watch?v=WwLwGGsJv8E
-SBS News | 海外 |  |
-https://www.youtube.com/watch?v=nC00onWIXPo
-SBS News | 海外 |  |
-https://www.youtube.com/watch?v=RJpkxiJZ2kw
-
-YTN News SBS News | 海外 |  |
-https://www.youtube.com/watch?v=FJfwehhzIhw
-
-YNA SBS News | 海外 |  |
-https://www.youtube.com/watch?v=6QZ_qc75ihU
-
-韓國經濟電視台 SBS News | 海外 |  |
+4K风景 | YouTube | |
 https://www.youtube.com/watch?v=NJUjU9ALj4A
 
-DW News SBS News | 海外 |  |
-https://www.youtube.com/watch?v=pqabxBKzZ6M
+4K风景-音乐 | YouTube | |
+https://www.youtube.com/watch?v=uXNU0XgGZhs
 
-NBC News SBS News | 海外 |  |
-https://www.youtube.com/watch?v=OQNkkEhQXlo
+空间站 | YouTube | |
+https://www.youtube.com/watch?v=0FBiyFpV__g
 
-ABC News SBS News | 海外 |  |
-https://www.youtube.com/watch?v=OOtxXPaQvoM
+放松/自然 | YouTube | |
+https://www.youtube.com/watch?v=jfKfPfyJRdk
 
-Sky News SBS News | 海外 |  |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+연합뉴스TV | YouTube | |
+https://www.youtube.com/watch?v=6QZ_qc75ihU
 
-WILDEST ANIMALS 4K (60FPS) Ultra HD | 海外 |  |
-https://www.youtube.com/watch?v=nN114ck3dtU
+YTN뉴스 | YouTube | |
+https://www.youtube.com/watch?v=ZpCbRGFIAHo
 
-半島電視 SBS News | 海外 |  |
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-
+한국경제TV | YouTube | |
+https://www.youtube.com/watch?v=NJUjU9ALj4A
