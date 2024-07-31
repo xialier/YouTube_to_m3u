@@ -1,9 +1,5 @@
 #! /usr/bin/python3
 
-import os
-import sys
-import subprocess
-
 banner = r'''
 #########################################################################
 #      ____            _           _   __  __                           #
@@ -16,30 +12,43 @@ banner = r'''
 #########################################################################
 '''
 
-def download_youtube_video(url, resolution='2160'):
-    # 尝试获取完整的视频流链接
-    command = [
-        'yt-dlp',
-        '-f', f'bestvideo[height<={resolution}]+bestaudio/best',
-        '--get-url',
-        url
-    ]
-    result = subprocess.run(command, capture_output=True, text=True)
-    return result.stdout.strip()
+import requests
+import os
+import sys
+
+windows = False
+if 'win' in sys.platform:
+    windows = True
 
 def grab(url):
-    try:
-        video_url = download_youtube_video(url)
-        if video_url:
-            return video_url
+    response = requests.get(url, timeout=15).text
+    if '.m3u8' not in response:
+        #response = requests.get(url).text
+        if '.m3u8' not in response:
+            if windows:
+                print('https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            break
         else:
-            return 'https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u'
-    except Exception:
-        return 'https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u'
+            tuner += 5
+    print(f"{link[start : end]}")
 
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
-
+#s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
@@ -51,10 +60,9 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
-            video_url = grab(line)
-            print(f'{video_url}')
+            grab(line)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
