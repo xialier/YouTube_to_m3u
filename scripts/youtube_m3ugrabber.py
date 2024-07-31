@@ -23,7 +23,7 @@ if 'win' in sys.platform:
 
 def download_youtube_video(url, resolution='2160'):
     # 尝试首先获取2K视频，如果没有则获取最高分辨率
-    format_string = f'(bestvideo[height<={resolution}]+bestaudio/best[height<={resolution}])/best'
+    format_string = f'bestvideo[height<={resolution}]+bestaudio/best[height<={resolution}]'
     command = [
         'yt-dlp',
         '-f', format_string,
@@ -59,7 +59,7 @@ with open('../youtube_channel_info.txt') as f:
             tvg_id = line[3].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
-            grab(line)  # 这里指定分辨率为2K
+            grab(line)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
