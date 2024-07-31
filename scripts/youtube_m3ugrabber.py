@@ -17,11 +17,10 @@ banner = r'''
 '''
 
 def download_youtube_video(url, resolution='2160'):
-    # 尝试首先获取4K视频，如果没有则获取最高分辨率
-    format_string = f'bestvideo[height<={resolution}]+bestaudio/best'
+    # 尝试获取完整的视频流链接
     command = [
         'yt-dlp',
-        '-f', format_string,
+        '-f', f'bestvideo[height<={resolution}]+bestaudio/best',
         '--get-url',
         url
     ]
@@ -55,7 +54,7 @@ with open('../youtube_channel_info.txt') as f:
             print(f'#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             video_url = grab(line)
-            print(video_url)
+            print(f'{video_url}')
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
